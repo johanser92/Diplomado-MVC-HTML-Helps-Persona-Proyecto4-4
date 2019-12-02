@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diplomado-MVC-HTML-Helps-Persona", "Diplomado-MVC-HTML-Helps-Persona\Diplomado-MVC-HTML-Helps-Persona.csproj", "{A3922A85-2ED5-4C7E-8CCB-15262AA58617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3922A85-2ED5-4C7E-8CCB-15262AA58617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3922A85-2ED5-4C7E-8CCB-15262AA58617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3922A85-2ED5-4C7E-8CCB-15262AA58617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3922A85-2ED5-4C7E-8CCB-15262AA58617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88205B72-C702-4A19-BE36-185DC853C740}
+	EndGlobalSection
+EndGlobal
